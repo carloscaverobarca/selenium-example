@@ -1,5 +1,8 @@
-/target/
-.settings
-.project
+.gradle/
+/bin/
+/.settings/
 .classpath
+.project
+/build/
+.okhttpcache/
 
